@@ -1,6 +1,6 @@
 ## Hello , I'm  Mohamed Elhouari👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
 
 # 💫About Me :
 - 🔭 I’m currently working on Manga WebSite.
